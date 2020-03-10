@@ -1,0 +1,1 @@
+d= {"hola":"hello", "yo":"I", "soy":"am","una":"a","chica":"girl","de":"from","España":"Spain","mi":"my","nombre":"name","es":"is","Monica":"Monica", "yo":"I", "tengo":"have","un":"one","hermano":"brother","y":"and","una":"one","hermana":"sister","mañana":"tomorrow","no":"no","clase":"class"}
